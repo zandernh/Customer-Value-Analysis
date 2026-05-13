@@ -166,7 +166,7 @@ After exporting the SQL view into CSV format, the dataset was loaded into Excel 
 
 ### 4. Power BI Dashboard Development
 
-![Customer Value Analysis Dashboard](Images/Images/powerbi_customervalueanalysisdashboard.png)
+![Customer Value Analysis](Images/powerbi_customervalueanalysisdashboard.png)
 
 The cleaned customer dataset was imported into Power BI for interactive dashboard creation.
 
